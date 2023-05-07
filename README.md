@@ -8,7 +8,7 @@ ASCII art of Bad Apple implemented in Rust.
 - FFMpeg
 - image [Rust dependence]
 
-Download [Bad Apple!!](https://www.youtube.com/watch?v=FtutLA63Cp8) in `./frames` directory. And then run shell script `extract_frames.sh`
+Download [Bad Apple!!](https://www.youtube.com/watch?v=FtutLA63Cp8) in `./frames` directory. And rename it BadApple.mp4 then run shell script `extract_frames.sh`
 
 ## Build
 
